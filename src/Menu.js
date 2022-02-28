@@ -7,7 +7,7 @@ const StyledMenu = styled.div`
 `;
 
 const StyledButton = styled.button`
-  margin: 0 1rem;
+  margin: 0.3rem 1rem;
   padding: 0.5rem 1rem;
   font-size: 1.2rem;
   background-color: darkgrey;

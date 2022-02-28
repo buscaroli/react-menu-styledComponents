@@ -6,9 +6,10 @@ import Menu from "./Menu";
 import List from "./List";
 
 const StyledApp = styled.div`
-  max-width: 80%;
   margin: 0 auto;
-  font-family: Verdana, sans-serif;
+  padding: 0px;
+  max-width: min(80%, 800px);
+  height: 100vh;
 `;
 
 let title = "Countries";
