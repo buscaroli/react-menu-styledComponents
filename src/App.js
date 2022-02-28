@@ -9,7 +9,7 @@ const StyledApp = styled.div`
   margin: 0 auto;
   padding: 0px;
   max-width: min(80%, 800px);
-  height: 100vh;
+  height: 100%;
 `;
 
 let title = "Countries";
