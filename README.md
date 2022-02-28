@@ -1,3 +1,20 @@
+# Objective
+
+Using styled-components in ReactJS for the first time. 
+I wanted to get an idea on how to work with the library and if it's something I might consider switching to in the future.
+
+## Considerations
+
+I have to say that after trying styled-components in this little project I am not particularly impressed.
+
+* Lack of syntax highlighting inside the styled-component within VSCode (maybe there is a plugin available ?)
+* It pollutes the JSX file with the component, if importing from a separate file might pollute the directory
+* It pollutes the HTML as every component needs its element within the HTML hierarchy
+
+I understand the appeal of something like styled-components and if you have ever worked with a framework like SwiftUI for iOS development you probably know that already. However it gives me more the impression of been a patch on a broken cloth.
+I'll most certainly follow its future development, but for the time being I think I'll stick to plain CSS/Sass or just a plain CSS Framework. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
